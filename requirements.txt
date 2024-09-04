@@ -1,0 +1,10 @@
+pip==22.0.4 
+setuptools==59.8.0 
+wheel==0.37.1
+gym==0.21
+gym_super_mario_bros==7.3.0
+nes_py==8.2.1
+torch==2.4.0
+# For GPU: torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+stable-baselines3[extra]==1.6.0  
+tensorboard==2.14.0
