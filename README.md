@@ -11,7 +11,6 @@ This repository demonstrates the use of Reinforcement Learning (RL) to train an 
 - `README.md`: This file.
 - `RandomAgent.py`: Script to run a random agent in the Super Mario Bros environment and record gameplay.
 - `ReTrain.py`: Script to continue training a previously saved model.
-- `SuperMario.mp4`: Sample video showcasing the agent's gameplay.
 - `Train.py`: Script to train a new PPO model.
 - `requirements.txt`: List of required Python packages.
 
@@ -50,7 +49,6 @@ pip install -r requirements.txt
 ## Notes
 
 - **Training Time**: Training may take significant time depending on the computational resources. The current setup uses CPU, and further improvements can be achieved with GPU acceleration.
-- **Image Output**: A sample gameplay image is available to illustrate the agent's performance.
 
 ## Example Gameplay
 
