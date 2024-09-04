@@ -18,7 +18,7 @@ This repository demonstrates the use of Reinforcement Learning (RL) to train an 
 
 ### `RandomAgent.py`
 
-Runs a random agent in the Super Mario Bros environment. The agent takes random actions, and gameplay is recorded and saved in `video/`.
+Runs a random agent in the Super Mario Bros environment. The agent takes random actions.
 
 ### `Train.py`
 
