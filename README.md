@@ -50,9 +50,6 @@ pip install -r requirements.txt
 
 - **Training Time**: Training may take significant time depending on the computational resources. The current setup uses CPU, and further improvements can be achieved with GPU acceleration.
 
-## Example Gameplay
-
-The image above shows a snapshot of the agent’s gameplay in Super Mario Bros.
 
 ## License
 
