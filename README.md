@@ -9,7 +9,7 @@ This repository demonstrates the use of Reinforcement Learning (RL) to train an 
 - `CallBack.py`: Contains the custom callback for training and logging.
 - `Evaluate.py`: Script to evaluate the trained model and print scores for several episodes.
 - `README.md`: This file.
-- `RandomAgent.py`: Script to run a random agent in the Super Mario Bros environment and record gameplay.
+- `RandomAgent.py`: Script to run a random agent in the Super Mario Bros environment.
 - `ReTrain.py`: Script to continue training a previously saved model.
 - `Train.py`: Script to train a new PPO model.
 - `requirements.txt`: List of required Python packages.
