@@ -1,5 +1,5 @@
 # Super Mario Bros Reinforcement Learning
-![Super Mario Gameplay](super-mario-bros.png)
+![Super Mario Gameplay](super-mario-bros.jpg)
 
 This repository demonstrates the use of Reinforcement Learning (RL) to train an AI agent to play Super Mario Bros using the Proximal Policy Optimization (PPO) algorithm. It includes scripts for training, evaluating, and testing the RL model, along with a sample video of the agent in action.
 
